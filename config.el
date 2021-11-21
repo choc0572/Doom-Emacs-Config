@@ -6,8 +6,8 @@
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets.
-(setq user-full-name "Christian Ocklind"
-      user-mail-address "christian.ocklind@gmail.com")
+(setq user-full-name "Your Name"
+      user-mail-address "your.name@email.com")
 
 ;; Doom exposes five (optional) variables for controlling fonts in Doom. Here
 ;; are the three important ones:
